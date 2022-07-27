@@ -47,6 +47,7 @@ Look for significant changes (regressions or improvements) in the following:
 When working with graphs: 
 - Click and drag a region of a graph to zoom in on it. This is useful when data
   points are close together.
+- Double-click on a graph to reset the zoom to its default presentation.
 - Click on a data point to open the "compare" page for that merge. This opens the comparison pages that are linked to in the generated triage report.
 
 To view the code changes:
